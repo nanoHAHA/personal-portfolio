@@ -23,7 +23,8 @@ personal-portfolio/
 ├── index.html          # Main HTML web page
 ├── style.css           # Custom CSS styling
 └── README.md           # Project documentation
-Live Demo
+
+## Live Demo
 You can view the live project deployed via GitHub Pages here:
 [https://nanohaha.github.io/personal-portfolio/](https://nanohaha.github.io/personal-portfolio/)
 

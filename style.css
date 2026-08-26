@@ -520,7 +520,7 @@ body::before {
 }
 
 
-/* Fixed Get In Touch Container & Image Size */
+
 .contact-container {
   display: flex;
   align-items: center;
@@ -534,7 +534,7 @@ body::before {
   -webkit-backdrop-filter: blur(10px);
   max-width: 1000px;
   margin: 0 auto;
-  overflow: hidden; /* Pinipigilan ang paglabas ng image */
+  overflow: hidden; 
 }
 
 .contact-info-form {
@@ -549,10 +549,9 @@ body::before {
   align-items: center;
 }
 
-/* Tamang Sukat ng Image */
 .contact-profile-img {
   width: 100%;
-  max-width: 280px; /* Sakto lang ang laki */
+  max-width: 280px; 
   height: 320px;
   object-fit: cover;
   border-radius: 16px;
@@ -622,4 +621,18 @@ body::before {
 .banner-cta h2 {
   margin-bottom: 1.8rem;
   font-size: 1.8rem;
+}
+.profile-img {
+  width: 100%;
+  max-width: 350px;
+  height: auto;
+  border-radius: 15px;
+  object-fit: cover;
+}
+
+.project-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
 }

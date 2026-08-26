@@ -31,3 +31,5 @@ You can view the live project deployed via GitHub Pages here:
 ##  Author
 - **Name:** Axel James Cantes
 - **GitHub:** [@nanoHAHA](https://github.com/nanoHAHA)
+  
+- August  26, 3:00 PM
